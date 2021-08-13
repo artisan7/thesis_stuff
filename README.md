@@ -35,7 +35,8 @@ pip install cv2 pandas numpy jupyterlab
 
 **For the image masking process**
 1. Download the necessary prerequisites. (OpenCV, pandas, numpy, covid-chestxray-database)
-2. Run the *distribute_img.py* file
-3. Wait and Enjoy? XD
+2. Make sure the *covid-chestxray-database* directory is inside the *thesis_stuff* directory
+3. Run the *distribute_img.py* file. This will generate directories of the equally distributed images assigned to us.
+4. Wait and Enjoy? XD
 
 NOTE: Refer to [this](https://towardsdatascience.com/generating-image-segmentation-masks-the-easy-way-dd4d3656dbd1) for the masking process itself.
