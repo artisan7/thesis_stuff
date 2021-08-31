@@ -1,213 +1,213 @@
 ,patientid,finding,view,modality,filename
-0,112,COVID-19,PA,X-ray,1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-000-fig1b.png
-1,114,COVID-19,PA,X-ray,1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-002-fig3b.png
-2,303,COVID-19,PA,X-ray,10.1016-slash-j.anl.2020.04.002-a.png
-3,311b,COVID-19,PA,X-ray,10.1016-slash-j.crad.2020.04.002-b.png
-4,312,COVID-19,AP,X-ray,10.1016-slash-j.healun.2020.04.004.jpg
-5,317,COVID-19,AP,X-ray,10.1016-slash-j.jhin.2020.03.036.png
-6,253,COVID-19,PA,X-ray,1052b0fe.jpg
-7,350b,COVID-19,PA,X-ray,1141cc2b8b9cc394becce5d978b5a7_jumbo.jpeg
-8,294,COVID-19,AP,X-ray,11547_2020_1200_Fig3_HTML-a.png
-9,329,COVID-19,PA,X-ray,12941_2020_358_Fig1_HTML.jpg
-10,355,COVID-19,PA,X-ray,14d81f378173b86cc53f21d2d67040_jumbo.jpeg
-11,177,COVID-19,PA,X-ray,16663_1_1.jpg
-12,184,COVID-19,PA,X-ray,16664_1_1.jpg
-13,181,COVID-19,AP,X-ray,16674_1_1.jpg
-14,198,COVID-19,PA,X-ray,16708_1_1.jpg
-15,213,COVID-19,PA,X-ray,16745_5_1.png
+0,351,COVID-19,AP,X-ray,071d06607edf81d70c940e043bce34_jumbo.jpeg
+1,112,COVID-19,PA,X-ray,1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-000-fig1b.png
+2,114,COVID-19,PA,X-ray,1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-002-fig3b.png
+3,303,COVID-19,PA,X-ray,10.1016-slash-j.anl.2020.04.002-a.png
+4,303,COVID-19,AP,X-ray,10.1016-slash-j.anl.2020.04.002-b.png
+5,303,COVID-19,AP,X-ray,10.1016-slash-j.anl.2020.04.002-c.png
+6,311b,COVID-19,PA,X-ray,10.1016-slash-j.crad.2020.04.002-b.png
+7,317,COVID-19,AP,X-ray,10.1016-slash-j.jhin.2020.03.036.png
+8,253,COVID-19,PA,X-ray,1052b0fe.jpg
+9,350b,COVID-19,PA,X-ray,1141cc2b8b9cc394becce5d978b5a7_jumbo.jpeg
+10,294,COVID-19,AP,X-ray,11547_2020_1200_Fig3_HTML-a.png
+11,294,COVID-19,AP,X-ray,11547_2020_1200_Fig3_HTML-b.png
+12,39,COVID-19,PA,X-ray,1312A392-67A3-4EBF-9319-810CF6DA5EF6.jpeg
+13,177,COVID-19,PA,X-ray,16663_1_1.jpg
+14,181,COVID-19,AP,X-ray,16674_1_1.jpg
+15,212,COVID-19,AP,X-ray,16745_4_1.png
 16,215,COVID-19,AP,X-ray,16745_7_1.png
-17,206,COVID-19,AP,X-ray,16747_3_1.jpg
-18,471,COVID-19,PA,X-ray,16953_4_1.jpg
-19,471,COVID-19,PA,X-ray,16953_5_1.jpg
-20,230,COVID-19,PA,X-ray,19abe1f3.jpg
-21,19,COVID-19,AP,X-ray,1-s2.0-S0929664620300449-gr2_lrg-a.jpg
-22,19,COVID-19,AP,X-ray,1-s2.0-S0929664620300449-gr2_lrg-b.jpg
+17,206,COVID-19,AP,X-ray,16747_2_1.jpg
+18,206,COVID-19,AP,X-ray,16747_3_1.jpg
+19,471,COVID-19,PA,X-ray,16953_4_1.jpg
+20,42,COVID-19,PA,X-ray,1B734A89-A1BF-49A8-A1D3-66FAFA4FAC5D.jpeg
+21,320,COVID-19,AP,X-ray,1-s2.0-S0085253820303616-gr1_lrg-a.png
+22,19,COVID-19,AP,X-ray,1-s2.0-S0929664620300449-gr2_lrg-a.jpg
 23,19,COVID-19,AP,X-ray,1-s2.0-S0929664620300449-gr2_lrg-c.jpg
-24,310,COVID-19,AP,X-ray,1-s2.0-S1521661620303314-gr1_lrg-a.png
-25,319a,COVID-19,AP,X-ray,1-s2.0-S1684118220300372-gr1_lrg-a.png
-26,59,COVID-19,PA,X-ray,1-s2.0-S1684118220300608-main.pdf-001.jpg
-27,59,COVID-19,PA,X-ray,1-s2.0-S1684118220300608-main.pdf-002.jpg
+24,19,COVID-19,AP,X-ray,1-s2.0-S0929664620300449-gr2_lrg-d.jpg
+25,310,COVID-19,AP,X-ray,1-s2.0-S1521661620303314-gr1_lrg-a.png
+26,319a,COVID-19,AP,X-ray,1-s2.0-S1684118220300372-gr1_lrg-a.png
+27,59,COVID-19,PA,X-ray,1-s2.0-S1684118220300608-main.pdf-001.jpg
 28,315,COVID-19,PA,X-ray,1-s2.0-S2214250920300834-gr1_lrg-b.png
 29,321,COVID-19,AP,X-ray,1-s2.0-S2387020620301959-gr4_lrg-a.png
-30,291,COVID-19,AP,X-ray,296_2020_4584_Fig2_HTML-c.png
-31,193,COVID-19,PA,X-ray,2-chest-filmc.jpg
-32,32,COVID-19,AP,X-ray,39EE8E69-5801-48DE-B6E3-BE7D1BCF3092.jpeg
-33,359,COVID-19,AP,X-ray,3b66f98f30636b2e1fb42c1d0f18a8_jumbo.jpeg
-34,446,COVID-19,AP,X-ray,3c48faa5dc2f1540fda696bae045ba_jumbo.jpeg
+30,40,COVID-19,PA,X-ray,23E99E2E-447C-46E5-8EB2-D35D12473C39.png
+31,291,COVID-19,AP,X-ray,296_2020_4584_Fig2_HTML-c.png
+32,34,COVID-19,AP,X-ray,2C10A413-AABE-4807-8CCE-6A2025594067.jpeg
+33,193,COVID-19,PA,X-ray,2-chest-filmc.jpg
+34,32,COVID-19,AP,X-ray,39EE8E69-5801-48DE-B6E3-BE7D1BCF3092.jpeg
 35,331a,COVID-19,PA,X-ray,41182_2020_203_Fig3_HTML.jpg
-36,331b,COVID-19,PA,X-ray,41182_2020_203_Fig5_HTML.jpg
-37,73,COVID-19,PA,X-ray,41591_2020_819_Fig1_HTML.webp-day10.png
-38,148,COVID-19,AP,X-ray,4ad30bc6-2da0-4f84-bc9b-62acabfd518a.annot.original.png
-39,447,COVID-19,AP,X-ray,4cb2f877226f5e02b3064e1e52075f_jumbo.jpeg
-40,263,COVID-19,PA,X-ray,5782ae15.jpg
-41,95,COVID-19,PA,X-ray,58cb9263f16e94305c730685358e4e_jumbo.jpeg
-42,94,COVID-19,PA,X-ray,6b44464d-73a7-4cf3-bbb6-ffe7168300e3.annot.original.jpeg
-43,252,COVID-19,PA,X-ray,7afaaccc.jpg
-44,33,COVID-19,PA,X-ray,7C69C012-7479-493F-8722-ABC29C60A2DD.jpeg
-45,70,COVID-19,AP,X-ray,7D2CF6CE-F529-4470-8356-D33FFAF98600.jpeg
-46,54,COVID-19,PA,X-ray,80446565-E090-4187-A031-9D3CEAA586C8.jpeg
-47,190,COVID-19,AP,X-ray,88de9d8c39e946abd495b37cd07d89e5-0666-0.jpg
-48,270,COVID-19,PA,X-ray,90986ce4.jpg
-49,49,COVID-19,PA,X-ray,93FE0BB1-022D-4F24-9727-987A07975FFB.jpeg
-50,36,COVID-19,PA,X-ray,9C34AF49-E589-44D5-92D3-168B3B04E4A6.jpeg
-51,239,COVID-19,PA,X-ray,a2eba651.jpg
-52,243,COVID-19,PA,X-ray,a361d7b7.jpg
-53,268,COVID-19,PA,X-ray,a8ac1969.jpg
-54,228,COVID-19,PA,X-ray,ac4f6e4e.jpg
-55,232,COVID-19,PA,X-ray,bb0e626a.jpg
-56,237,COVID-19,PA,X-ray,bd10d5e2.jpg
-57,227,COVID-19,PA,X-ray,c0f74558.jpg
-58,266,COVID-19,PA,X-ray,c3829ecb.jpg
+36,148,COVID-19,AP,X-ray,4ad30bc6-2da0-4f84-bc9b-62acabfd518a.annot.original.png
+37,140,COVID-19,PA,X-ray,4e43e48d52c9e2d4c6c1fb9bc1544f_jumbo.jpeg
+38,263,COVID-19,PA,X-ray,5782ae15.jpg
+39,95,COVID-19,PA,X-ray,58cb9263f16e94305c730685358e4e_jumbo.jpeg
+40,74,COVID-19,AP,X-ray,5e6dd879fde9502400e58b2f.jpeg
+41,223,COVID-19,PA,X-ray,5f619d7e.jpg
+42,350c,COVID-19,AP,X-ray,6770dac454c45c86bc6c2d6193b177_jumbo.jpeg
+43,94,COVID-19,PA,X-ray,6b44464d-73a7-4cf3-bbb6-ffe7168300e3.annot.original.jpeg
+44,252,COVID-19,PA,X-ray,7afaaccc.jpg
+45,33,COVID-19,PA,X-ray,7C69C012-7479-493F-8722-ABC29C60A2DD.jpeg
+46,195,COVID-19,PA,X-ray,7-fatal-covid19.jpg
+47,225,COVID-19,PA,X-ray,80b5f00f.jpg
+48,190,COVID-19,PA,X-ray,88de9d8c39e946abd495b37cd07d89e5-2ee6-0.jpg
+49,253,COVID-19,PA,X-ray,8da14fff.jpg
+50,256,COVID-19,PA,X-ray,8fc103ca.jpg
+51,36,COVID-19,PA,X-ray,8FDE8DBA-CFBD-4B4C-B1A4-6F36A93B7E87.jpeg
+52,270,COVID-19,PA,X-ray,90986ce4.jpg
+53,49,COVID-19,PA,X-ray,93FE0BB1-022D-4F24-9727-987A07975FFB.jpeg
+54,239,COVID-19,PA,X-ray,a2eba651.jpg
+55,228,COVID-19,PA,X-ray,ac4f6e4e.jpg
+56,232,COVID-19,PA,X-ray,bb0e626a.jpg
+57,237,COVID-19,PA,X-ray,bd10d5e2.jpg
+58,227,COVID-19,PA,X-ray,c0f74558.jpg
 59,252,COVID-19,PA,X-ray,c601f50d.jpg
-60,60,COVID-19,PA,X-ray,ciaa199.pdf-001-a.png
-61,61,COVID-19,PA,X-ray,ciaa199.pdf-001-b.png
-62,341,COVID-19,PA,X-ray,covid-19-caso-82-1-8.png
-63,342,COVID-19,AP,X-ray,covid-19-caso-85-1-9.png
-64,347,COVID-19,PA,X-ray,covid-19-caso-95-1-15.png
-65,98,COVID-19,PA,X-ray,covid-19-infection-exclusive-gastrointestinal-symptoms-pa.png
-66,93,COVID-19,PA,X-ray,covid-19-pneumonia-30-PA.jpg
-67,141,COVID-19,PA,X-ray,covid-19-pneumonia-53.jpg
-68,22,COVID-19,PA,X-ray,covid-19-pneumonia-7-PA.jpg
-69,204,COVID-19,PA,X-ray,covid-19-pneumonia-93.png
-70,176,COVID-19,AP,X-ray,covid-19-pneumonia-bilateral.jpg
+60,139,COVID-19,PA,X-ray,covid-19-caso-70-1-PA.jpg
+61,341,COVID-19,PA,X-ray,covid-19-caso-82-1-8.png
+62,342,COVID-19,AP,X-ray,covid-19-caso-85-1-9.png
+63,345,COVID-19,PA,X-ray,covid-19-caso-91-1-12.png
+64,98,COVID-19,PA,X-ray,covid-19-infection-exclusive-gastrointestinal-symptoms-pa.png
+65,203,COVID-19,AP,X-ray,covid-19-pneumonia-101.png
+66,23,COVID-19,PA,X-ray,covid-19-pneumonia-14-PA.png
+67,93,COVID-19,PA,X-ray,covid-19-pneumonia-30-PA.jpg
+68,169,COVID-19,PA,X-ray,covid-19-pneumonia-44-day-0.jpeg
+69,141,COVID-19,PA,X-ray,covid-19-pneumonia-53.jpg
+70,22,COVID-19,PA,X-ray,covid-19-pneumonia-7-PA.jpg
 71,117,COVID-19,PA,X-ray,covid-19-pneumonia-evolution-over-a-week-1-day0-PA.jpg
-72,205,COVID-19,AP,X-ray,covid-19-pneumonia-progression-and-regression-day6.jpg
-73,96,COVID-19,PA,X-ray,covid-19-pneumonia-rapidly-progressive-admission.jpg
-74,251,COVID-19,PA,X-ray,d009d61f.jpg
-75,147,COVID-19,AP,X-ray,da9e9aac-de8c-44c7-ba57-e7cc8e4caaba.annot.original.jpeg
-76,248,COVID-19,PA,X-ray,e1446fe8.jpg
+72,174,COVID-19,PA,X-ray,covid-19-pneumonia-mild.JPG
+73,205,COVID-19,AP,X-ray,covid-19-pneumonia-progression-and-regression-day6.jpg
+74,96,COVID-19,PA,X-ray,covid-19-pneumonia-rapidly-progressive-admission.jpg
+75,251,COVID-19,PA,X-ray,d009d61f.jpg
+76,243,COVID-19,PA,X-ray,d9d6ca9a.jpg
 77,51,COVID-19,PA,X-ray,E63574A7-4188-4C8D-8D17-9D67A18A1AFA.jpeg
 78,252,COVID-19,PA,X-ray,ec083e35.jpg
-79,446,COVID-19,AP,X-ray,f46a9bfc7222e61e099a25ab9267da_jumbo.jpeg
-80,47,COVID-19,AP,X-ray,F63AB6CE-1968-4154-A70F-913AF154F53D.jpeg
-81,228,COVID-19,PA,X-ray,f6575117.jpg
-82,240,COVID-19,PA,X-ray,f8335316.jpg
-83,70,COVID-19,PA,X-ray,FE9F9A5D-2830-46F9-851B-1FF4534959BE.jpeg
+79,51,COVID-19,PA,X-ray,F4341CE7-73C9-45C6-99C8-8567A5484B63.jpeg
+80,446,COVID-19,AP,X-ray,f46a9bfc7222e61e099a25ab9267da_jumbo.jpeg
+81,47,COVID-19,AP,X-ray,F63AB6CE-1968-4154-A70F-913AF154F53D.jpeg
+82,70,COVID-19,PA,X-ray,FE9F9A5D-2830-46F9-851B-1FF4534959BE.jpeg
+83,80,COVID-19,PA,X-ray,figure1-5e75d0940b71e1b702629659-98-right.jpeg
 84,69,COVID-19,PA,X-ray,gr1_lrg-b.jpg
-85,17,COVID-19,AP,X-ray,jkms-35-e79-g001-l-b.jpg
-86,17,COVID-19,AP,X-ray,jkms-35-e79-g001-l-c.jpg
-87,63,COVID-19,AP,X-ray,kjr-21-e24-g001-l-a.jpg
-88,13,COVID-19,PA,X-ray,nejmoa2001191_f1-PA.jpeg
-89,13,COVID-19,PA,X-ray,nejmoa2001191_f3-PA.jpeg
-90,142,COVID-19,AP,X-ray,post-intubuation-pneumomediastium-and-pneumothorax-background-covid-19-pneumonia-day1.jpg
-91,142,COVID-19,AP,X-ray,post-intubuation-pneumomediastium-and-pneumothorax-background-covid-19-pneumonia-day7.jpg
-92,158,COVID-19,AP,X-ray,radiol.2020201160.fig3d.jpeg
-93,159,COVID-19,AP,X-ray,radiol.2020201160.fig6b.jpeg
-94,14,COVID-19,PA,X-ray,ryct.2020200034.fig2.jpeg
+85,324b,COVID-19,AP,X-ray,gr2_lrg-c.png
+86,17,COVID-19,AP,X-ray,jkms-35-e79-g001-l-a.jpg
+87,17,COVID-19,AP,X-ray,jkms-35-e79-g001-l-c.jpg
+88,4,COVID-19,PA,X-ray,nejmc2001573_f1a.jpeg
+89,4,COVID-19,PA,X-ray,nejmc2001573_f1b.jpeg
+90,13,COVID-19,PA,X-ray,nejmoa2001191_f1-PA.jpeg
+91,13,COVID-19,PA,X-ray,nejmoa2001191_f3-PA.jpeg
+92,13,COVID-19,PA,X-ray,nejmoa2001191_f5-PA.jpeg
+93,142,COVID-19,AP,X-ray,post-intubuation-pneumomediastium-and-pneumothorax-background-covid-19-pneumonia-day1.jpg
+94,142,COVID-19,AP,X-ray,post-intubuation-pneumomediastium-and-pneumothorax-background-covid-19-pneumonia-day7.jpg
 95,15,COVID-19,PA,X-ray,ryct.2020200034.fig5-day0.jpeg
 96,15,COVID-19,PA,X-ray,ryct.2020200034.fig5-day4.jpeg
 97,15,COVID-19,PA,X-ray,ryct.2020200034.fig5-day7.jpeg
-98,332,COVID-19,PA,X-ray,tpmd200203f2-b.png
+98,334,COVID-19,PA,X-ray,thnov10p5641g006-c.png
 99,187,COVID-19,PA,X-ray,yxppt-2020-02-19_00-51-27_287214-day8.jpg
 100,282,Pneumonia,PA,X-ray,000001.jpg
-101,416,Pneumonia,PA,X-ray,000001-1.png
-102,406,Pneumonia,PA,X-ray,000001-10.jpg
-103,407,Pneumonia,AP,X-ray,000001-11.jpg
-104,281,Pneumonia,PA,X-ray,000001-12.jpg
-105,408,Pneumonia,PA,X-ray,000001-13.jpg
-106,413,Pneumonia,PA,X-ray,000001-15.jpg
-107,283,Pneumonia,PA,X-ray,000001-17.jpg
+101,410,Pneumonia,AP,X-ray,000001.png
+102,395,Pneumonia,PA,X-ray,000001-1.jpg
+103,406,Pneumonia,PA,X-ray,000001-10.jpg
+104,407,Pneumonia,AP,X-ray,000001-11.jpg
+105,281,Pneumonia,PA,X-ray,000001-12.jpg
+106,408,Pneumonia,PA,X-ray,000001-13.jpg
+107,413,Pneumonia,PA,X-ray,000001-15.jpg
 108,418,Pneumonia,PA,X-ray,000001-18.jpg
-109,480,Pneumonia,PA,X-ray,000001-266.jpg
-110,417,Pneumonia,PA,X-ray,000001-4.png
-111,286,Pneumonia,PA,X-ray,000001-6.png
-112,404,Pneumonia,PA,X-ray,000001-8.jpg
-113,278,Pneumonia,PA,X-ray,000001-9-a.jpg
-114,278,Pneumonia,PA,X-ray,000002-11-a.jpg
-115,283,Pneumonia,PA,X-ray,000002-19-a.jpg
-116,396,Pneumonia,PA,X-ray,000003.jpg
-117,397,Pneumonia,PA,X-ray,000003-1.jpg
-118,416,Pneumonia,PA,X-ray,000003-6.jpg
-119,396,Pneumonia,AP,X-ray,000004.jpg
-120,396,Pneumonia,AP,X-ray,000005.jpg
-121,276,Pneumonia,PA,X-ray,000005-5-a.jpg
-122,339,Pneumonia,PA,X-ray,000006-17.jpg
-123,277,Pneumonia,PA,X-ray,000006-2.png
-124,420,Pneumonia,PA,X-ray,000007.jpg
-125,339,Pneumonia,PA,X-ray,000007-15.jpg
-126,277,Pneumonia,PA,X-ray,000007-2.png
-127,419,Pneumonia,PA,X-ray,000010.jpg
-128,284,Pneumonia,PA,X-ray,000010-5.jpg
-129,393,Pneumonia,AP,X-ray,000012.jpg
-130,284,Pneumonia,PA,X-ray,000012-3.jpg
-131,282,Pneumonia,PA,X-ray,000024-1.jpg
-132,360b,Pneumonia,PA,X-ray,13cd850b02d1afe48c113a73eed882_jumbo-1.jpg
-133,466,Pneumonia,PA,X-ray,1538fbfe9d0872739b00f5a51e4fdc_jumbo.jpeg
-134,411,Pneumonia,PA,X-ray,16497_1_1.png
-135,272,Pneumonia,PA,X-ray,16583_1_1.jpg
-136,272,Pneumonia,PA,X-ray,16583_3_1.jpg
-137,271,Pneumonia,PA,X-ray,16646_1_1.jpg
-138,371,Pneumonia,PA,X-ray,19876b357ac5c998a06d9614b6148a_jumbo.jpeg
+109,403,Pneumonia,PA,X-ray,000001-7.jpg
+110,404,Pneumonia,PA,X-ray,000001-8.jpg
+111,278,Pneumonia,PA,X-ray,000001-9-a.jpg
+112,283,Pneumonia,PA,X-ray,000002-19-a.jpg
+113,404,Pneumonia,PA,X-ray,000002-5.jpg
+114,413,Pneumonia,AP,X-ray,000002-7.jpg
+115,396,Pneumonia,PA,X-ray,000003.jpg
+116,397,Pneumonia,PA,X-ray,000003-1.jpg
+117,403,Pneumonia,AP,X-ray,000003-4.jpg
+118,413,Pneumonia,AP,X-ray,000003-5.jpg
+119,416,Pneumonia,PA,X-ray,000003-6.jpg
+120,396,Pneumonia,AP,X-ray,000004.jpg
+121,396,Pneumonia,AP,X-ray,000005.jpg
+122,276,Pneumonia,PA,X-ray,000005-5-a.jpg
+123,339,Pneumonia,PA,X-ray,000006-17.jpg
+124,277,Pneumonia,PA,X-ray,000006-2.png
+125,420,Pneumonia,PA,X-ray,000007.jpg
+126,410,Pneumonia,AP,X-ray,000007.png
+127,339,Pneumonia,PA,X-ray,000007-15.jpg
+128,277,Pneumonia,PA,X-ray,000007-2.png
+129,419,Pneumonia,PA,X-ray,000010.jpg
+130,420,Pneumonia,PA,X-ray,000012-1.jpg
+131,284,Pneumonia,PA,X-ray,000012-3.jpg
+132,282,Pneumonia,PA,X-ray,000024-1.jpg
+133,479,Pneumonia,AP,X-ray,072ecaf8c60a81980abb57150a8016_jumbo-9.jpeg
+134,360b,Pneumonia,PA,X-ray,13cd850b02d1afe48c113a73eed882_jumbo-1.jpg
+135,466,Pneumonia,PA,X-ray,1538fbfe9d0872739b00f5a51e4fdc_jumbo.jpeg
+136,411,Pneumonia,PA,X-ray,16497_1_1.png
+137,272,Pneumonia,PA,X-ray,16583_1_1.jpg
+138,272,Pneumonia,PA,X-ray,16583_3_1.jpg
 139,379,Pneumonia,PA,X-ray,1e64990d1b40c1758a2aaa9c7f7a85_jumbo.jpeg
 140,423b,Pneumonia,PA,X-ray,1-s2.0-S0378603X1500248X-gr2a.jpg
-141,423b,Pneumonia,PA,X-ray,1-s2.0-S0378603X1500248X-gr2b.jpg
-142,423b,Pneumonia,AP,X-ray,1-s2.0-S0378603X1500248X-gr2c.jpg
-143,425c,Pneumonia,PA,X-ray,1-s2.0-S0378603X1500248X-gr3a.jpg
-144,425c,Pneumonia,PA,X-ray,1-s2.0-S0378603X1500248X-gr3b.jpg
-145,425d,Pneumonia,AP,X-ray,1-s2.0-S0378603X1500248X-gr4a.jpg
-146,425d,Pneumonia,AP,X-ray,1-s2.0-S0378603X1500248X-gr4c.jpg
-147,372,Pneumonia,AP,X-ray,22ebbc464e16ea1217228e3c9f4935_jumbo.jpeg
-148,369,Pneumonia,PA,X-ray,26eecee1e498237cc3ea3274b79ff0_jumbo.jpg
-149,462,Pneumonia,PA,X-ray,2fc8a7c61c76f13ee7f9306b44e792_jumbo.jpg
-150,364,Pneumonia,AP,X-ray,3d4364c0e44859e86017ee1660112e_jumbo-1.jpeg
-151,462,Pneumonia,PA,X-ray,3e9d9c9b02b9bcd81c851134667e76_jumbo.jpg
-152,468,Pneumonia,PA,X-ray,4e74cbafeab0bfd317a93e1aace6cf_jumbo.jpg
-153,367,Pneumonia,PA,X-ray,56bc74129531580d3c40b1f8ae77ab_jumbo.jpeg
-154,364,Pneumonia,AP,X-ray,582f068ae16494e015cf2b2ed90388_jumbo-1.jpeg
-155,360b,Pneumonia,PA,X-ray,5f8aaa4e85af075412849ebf8ebb54_jumbo-1.jpg
-156,383,Pneumonia,PA,X-ray,6f36c4ad54047bc52b38fd8c9d1e22_jumbo.jpg
-157,462,Pneumonia,AP,X-ray,6ffc98957c18d4e3f2da8da48105e3_jumbo.jpg
-158,379,Pneumonia,PA,X-ray,7223b8ad031187d9a142d7f7ca02c9_jumbo.jpeg
+141,423b,Pneumonia,AP,X-ray,1-s2.0-S0378603X1500248X-gr2c.jpg
+142,425c,Pneumonia,PA,X-ray,1-s2.0-S0378603X1500248X-gr3a.jpg
+143,425c,Pneumonia,PA,X-ray,1-s2.0-S0378603X1500248X-gr3b.jpg
+144,469,Pneumonia,PA,X-ray,2264f643b18b1010ec10a850f17550_jumbo.jpeg
+145,372,Pneumonia,AP,X-ray,22ebbc464e16ea1217228e3c9f4935_jumbo.jpeg
+146,369,Pneumonia,PA,X-ray,26eecee1e498237cc3ea3274b79ff0_jumbo.jpg
+147,364,Pneumonia,AP,X-ray,3d4364c0e44859e86017ee1660112e_jumbo-1.jpeg
+148,462,Pneumonia,PA,X-ray,3e9d9c9b02b9bcd81c851134667e76_jumbo.jpg
+149,361a,Pneumonia,PA,X-ray,4e1dc09c3abe03a3efb72d494ddb6f_jumbo-2.jpeg
+150,468,Pneumonia,PA,X-ray,4e74cbafeab0bfd317a93e1aace6cf_jumbo.jpg
+151,360b,Pneumonia,PA,X-ray,52a8b6bf730b648d37b37d2aa51fd3_jumbo-1.jpg
+152,367,Pneumonia,PA,X-ray,56bc74129531580d3c40b1f8ae77ab_jumbo.jpeg
+153,364,Pneumonia,AP,X-ray,582f068ae16494e015cf2b2ed90388_jumbo-1.jpeg
+154,383,Pneumonia,PA,X-ray,6f36c4ad54047bc52b38fd8c9d1e22_jumbo.jpg
+155,462,Pneumonia,AP,X-ray,6ffc98957c18d4e3f2da8da48105e3_jumbo.jpg
+156,449,Pneumonia,PA,X-ray,7185bd4a8cc3280902117d034c7653_jumbo.jpg
+157,451,Pneumonia,PA,X-ray,75fb7cd80d5ca4074c474f93471ad4_jumbo.jpeg
+158,467,Pneumonia,PA,X-ray,7a7044c64a87936f09fee9a7f5c5fa_jumbo.jpeg
 159,374,Pneumonia,PA,X-ray,82cb30b7678c6da229c6dc222c39c9_jumbo.jpeg
-160,375,Pneumonia,AP,X-ray,84da526d0453b9b9e7896631e6b366_jumbo.jpeg
-161,460,Pneumonia,PA,X-ray,8f46c8ad3d40a93b4a313f15092e1d_jumbo.jpeg
-162,462,Pneumonia,PA,X-ray,92d755fba55c3305419b5cac83fbf5_jumbo.jpg
-163,360b,Pneumonia,PA,X-ray,94c6945194a265ae1301bec234a7e0_jumbo-1.jpg
-164,361b,Pneumonia,AP,X-ray,9a4e0141fd7681c4026b55b4e13914_jumbo-2.jpeg
-165,377,Pneumonia,PA,X-ray,a24181c437aca166f7aeccc62ba28a_jumbo.jpg
-166,382,Pneumonia,PA,X-ray,a72aeb349a63c79ed24e473c434efe_jumbo.jpg
-167,457,Pneumonia,PA,X-ray,b2f42e0cdfcbe32f189eb467b05e24_jumbo.jpg
-168,360b,Pneumonia,PA,X-ray,b50c02b92f2b98f5e1477ff759ce94_jumbo-1.jpg
-169,362,Pneumonia,PA,X-ray,bb25b35e1cc5cb0984ead37363db0e_jumbo-2.jpeg
-170,477,Pneumonia,AP,X-ray,bdc40f9ad2395d88c92479089f5d1b_jumbo-10.jpeg
-171,92,Pneumonia,PA,X-ray,cavitating-pneumonia-4-day0-PA.jpg
-172,92,Pneumonia,PA,X-ray,cavitating-pneumonia-4-day28-PA.png
+160,460,Pneumonia,PA,X-ray,8f46c8ad3d40a93b4a313f15092e1d_jumbo.jpeg
+161,462,Pneumonia,PA,X-ray,92d755fba55c3305419b5cac83fbf5_jumbo.jpg
+162,360b,Pneumonia,PA,X-ray,94c6945194a265ae1301bec234a7e0_jumbo-1.jpg
+163,361b,Pneumonia,AP,X-ray,9a4e0141fd7681c4026b55b4e13914_jumbo-2.jpeg
+164,377,Pneumonia,PA,X-ray,a24181c437aca166f7aeccc62ba28a_jumbo.jpg
+165,382,Pneumonia,PA,X-ray,a72aeb349a63c79ed24e473c434efe_jumbo.jpg
+166,457,Pneumonia,PA,X-ray,b2f42e0cdfcbe32f189eb467b05e24_jumbo.jpg
+167,382,Pneumonia,PA,X-ray,ba45a47c3ef5060ec39891046be7ca_jumbo.jpg
+168,362,Pneumonia,PA,X-ray,bb25b35e1cc5cb0984ead37363db0e_jumbo-2.jpeg
+169,477,Pneumonia,AP,X-ray,bdc40f9ad2395d88c92479089f5d1b_jumbo-10.jpeg
+170,92,Pneumonia,PA,X-ray,cavitating-pneumonia-4-day0-PA.jpg
+171,92,Pneumonia,PA,X-ray,cavitating-pneumonia-4-day28-PA.png
+172,373,Pneumonia,AP,X-ray,cdf5605e45874c28262c81b7ab80b3_jumbo.jpeg
 173,90,Pneumonia,PA,X-ray,chlamydia-pneumonia-PA.png
 174,452,Pneumonia,PA,X-ray,d815245ec98b5f0efc73b89daef72c_jumbo.jpg
-175,366,Pneumonia,PA,X-ray,f410057190635755d60158d1595d67_jumbo-1.jpeg
+175,463,Pneumonia,AP,X-ray,dc025523f07c043550a2c9de68ae50_jumbo.jpeg
 176,363,Pneumonia,AP,X-ray,f6ece95b172eadba762bf3daef7441_jumbo-1.jpeg
 177,370,Pneumonia,PA,X-ray,f72b17e863d0f958b65379b3669238_jumbo.jpg
-178,479,Pneumonia,AP,X-ray,ff33c406392b968d483174c97eb857_jumbo-9.jpeg
-179,456,Pneumonia,PA,X-ray,ffad3e6c27fe36031249c81647800f_jumbo.jpeg
-180,423a,Pneumonia,AP,X-ray,MERS-CoV-1-s2.0-S0378603X1500248X-gr4e.jpg
+178,456,Pneumonia,PA,X-ray,ffad3e6c27fe36031249c81647800f_jumbo.jpeg
+179,423a,Pneumonia,AP,X-ray,MERS-CoV-1-s2.0-S0378603X1500248X-gr4e.jpg
+180,88,Pneumonia,PA,X-ray,parapneumonic-effusion-1-PA.png
 181,87,Pneumonia,PA,X-ray,pneumococcal-pneumonia-day0.jpg
 182,87,Pneumonia,PA,X-ray,pneumococcal-pneumonia-day35.jpg
 183,87,Pneumonia,PA,X-ray,pneumococcal-pneumonia-day7.jpg
 184,105,Pneumonia,PA,X-ray,pneumocystis-carinii-pneumonia-1-PA.jpg
 185,101,Pneumonia,PA,X-ray,pneumocystis-jirovecii-pneumonia-3-1.jpg
 186,101,Pneumonia,PA,X-ray,pneumocystis-jirovecii-pneumonia-3-2.jpg
-187,109,Pneumonia,PA,X-ray,pneumocystis-jiroveci-pneumonia-4-PA.png
-188,102,Pneumonia,PA,X-ray,pneumocystis-pneumonia-1.jpg
-189,89,Pneumonia,PA,X-ray,right-upper-lobe-pneumonia-9-PA.jpg
-190,7,Pneumonia,PA,X-ray,SARS-10.1148rg.242035193-g04mr34g04a-Fig4a-day7.jpeg
-191,8,Pneumonia,PA,X-ray,SARS-10.1148rg.242035193-g04mr34g05x-Fig5-day9.jpeg
-192,9,Pneumonia,AP,X-ray,SARS-10.1148rg.242035193-g04mr34g07a-Fig7a-day5.jpeg
-193,9,Pneumonia,AP,X-ray,SARS-10.1148rg.242035193-g04mr34g07b-Fig7b-day12.jpeg
-194,10,Pneumonia,AP,X-ray,SARS-10.1148rg.242035193-g04mr34g09b-Fig9b-day19.jpeg
-195,10,Pneumonia,AP,X-ray,SARS-10.1148rg.242035193-g04mr34g09c-Fig9c-day27.jpeg
-196,171,Pneumonia,PA,X-ray,wong-0002.jpg
-197,171,Pneumonia,PA,X-ray,wong-0003.jpg
+187,107,Pneumonia,PA,X-ray,pneumocystis-jiroveci-pneumonia-2.png
+188,109,Pneumonia,PA,X-ray,pneumocystis-jiroveci-pneumonia-4-PA.png
+189,28,Pneumonia,PA,X-ray,pneumocystis-pneumonia-2-PA.png
+190,8,Pneumonia,PA,X-ray,SARS-10.1148rg.242035193-g04mr34g05x-Fig5-day9.jpeg
+191,9,Pneumonia,AP,X-ray,SARS-10.1148rg.242035193-g04mr34g07a-Fig7a-day5.jpeg
+192,10,Pneumonia,AP,X-ray,SARS-10.1148rg.242035193-g04mr34g09a-Fig9a-day17.jpeg
+193,10,Pneumonia,AP,X-ray,SARS-10.1148rg.242035193-g04mr34g09b-Fig9b-day19.jpeg
+194,10,Pneumonia,AP,X-ray,SARS-10.1148rg.242035193-g04mr34g09c-Fig9c-day27.jpeg
+195,415,Pneumonia,AP,X-ray,untitled.001_0.jpeg
+196,170,Pneumonia,PA,X-ray,wong-0000.jpg
+197,171,Pneumonia,PA,X-ray,wong-0002.jpg
 198,171,Pneumonia,PA,X-ray,wong-0004.jpg
 199,172,Pneumonia,PA,X-ray,wong-0005.jpg
 200,502,No Finding,PA,X-ray,00000002_000.png
-201,505,No Finding,AP,X-ray,00000005_002.png
-202,506,No Finding,PA,X-ray,00000006_000.png
-203,508,No Finding,PA,X-ray,00000008_001.png
-204,511,No Finding,PA,X-ray,00000011_001.png
-205,511,No Finding,PA,X-ray,00000011_002.png
-206,511,No Finding,PA,X-ray,00000011_003.png
-207,514,No Finding,PA,X-ray,00000014_000.png
-208,515,No Finding,AP,X-ray,00000015_000.png
+201,506,No Finding,PA,X-ray,00000006_000.png
+202,508,No Finding,PA,X-ray,00000008_001.png
+203,511,No Finding,PA,X-ray,00000011_001.png
+204,511,No Finding,PA,X-ray,00000011_002.png
+205,511,No Finding,PA,X-ray,00000011_003.png
+206,511,No Finding,PA,X-ray,00000011_008.png
+207,517,No Finding,AP,X-ray,00000017_001.png
+208,517,No Finding,AP,X-ray,00000017_002.png
 209,518,No Finding,PA,X-ray,00000018_000.png
 210,522,No Finding,PA,X-ray,00000022_000.png
 211,523,No Finding,PA,X-ray,00000023_000.png
@@ -215,78 +215,78 @@
 213,523,No Finding,PA,X-ray,00000023_003.png
 214,529,No Finding,PA,X-ray,00000029_000.png
 215,531,No Finding,PA,X-ray,00000031_000.png
-216,535,No Finding,PA,X-ray,00000035_000.png
-217,537,No Finding,PA,X-ray,00000037_000.png
+216,534,No Finding,PA,X-ray,00000034_001.png
+217,535,No Finding,PA,X-ray,00000035_000.png
 218,539,No Finding,PA,X-ray,00000039_000.png
-219,539,No Finding,PA,X-ray,00000039_001.png
-220,540,No Finding,PA,X-ray,00000040_000.png
-221,542,No Finding,PA,X-ray,00000042_005.png
-222,547,No Finding,PA,X-ray,00000047_000.png
-223,547,No Finding,PA,X-ray,00000047_001.png
-224,547,No Finding,PA,X-ray,00000047_007.png
+219,542,No Finding,PA,X-ray,00000042_005.png
+220,547,No Finding,PA,X-ray,00000047_000.png
+221,547,No Finding,PA,X-ray,00000047_001.png
+222,547,No Finding,PA,X-ray,00000047_002.png
+223,547,No Finding,PA,X-ray,00000047_007.png
+224,548,No Finding,PA,X-ray,00000048_000.png
 225,549,No Finding,PA,X-ray,00000049_001.png
-226,550,No Finding,PA,X-ray,00000050_002.png
-227,552,No Finding,PA,X-ray,00000052_000.png
-228,552,No Finding,PA,X-ray,00000052_001.png
-229,555,No Finding,PA,X-ray,00000055_000.png
-230,557,No Finding,PA,X-ray,00000057_000.png
-231,397,No Finding,PA,X-ray,000001-3.jpg
-232,719,No Finding,PA,X-ray,00000219_003.png
-233,720,No Finding,PA,X-ray,00000220_000.png
-234,722,No Finding,PA,X-ray,00000222_000.png
-235,723,No Finding,PA,X-ray,00000223_000.png
-236,725,No Finding,PA,X-ray,00000225_000.png
-237,725,No Finding,PA,X-ray,00000225_001.png
-238,726,No Finding,PA,X-ray,00000226_000.png
-239,727,No Finding,PA,X-ray,00000227_001.png
-240,728,No Finding,PA,X-ray,00000228_000.png
-241,729,No Finding,PA,X-ray,00000229_000.png
-242,731,No Finding,PA,X-ray,00000231_012.png
-243,731,No Finding,PA,X-ray,00000231_013.png
-244,737,No Finding,PA,X-ray,00000237_000.png
-245,739,No Finding,PA,X-ray,00000239_001.png
-246,739,No Finding,PA,X-ray,00000239_003.png
-247,741,No Finding,PA,X-ray,00000241_000.png
-248,741,No Finding,PA,X-ray,00000241_001.png
-249,742,No Finding,PA,X-ray,00000242_001.png
-250,742,No Finding,PA,X-ray,00000242_002.png
-251,742,No Finding,PA,X-ray,00000242_003.png
-252,742,No Finding,PA,X-ray,00000242_004.png
-253,743,No Finding,PA,X-ray,00000243_000.png
-254,746,No Finding,PA,X-ray,00000246_000.png
-255,746,No Finding,PA,X-ray,00000246_002.png
-256,785,No Finding,AP,X-ray,00012285_003.png
-257,786,No Finding,PA,X-ray,00012286_000.png
-258,787,No Finding,PA,X-ray,00012287_000.png
-259,789,No Finding,PA,X-ray,00012289_000.png
-260,791,No Finding,PA,X-ray,00012291_000.png
-261,791,No Finding,PA,X-ray,00012291_001.png
-262,791,No Finding,AP,X-ray,00012291_002.png
-263,791,No Finding,PA,X-ray,00012291_009.png
-264,791,No Finding,PA,X-ray,00012291_010.png
-265,791,No Finding,AP,X-ray,00012291_011.png
-266,791,No Finding,AP,X-ray,00012291_012.png
-267,791,No Finding,AP,X-ray,00012291_013.png
+226,549,No Finding,PA,X-ray,00000049_002.png
+227,550,No Finding,PA,X-ray,00000050_002.png
+228,550,No Finding,PA,X-ray,00000050_003.png
+229,552,No Finding,PA,X-ray,00000052_000.png
+230,552,No Finding,PA,X-ray,00000052_001.png
+231,555,No Finding,PA,X-ray,00000055_000.png
+232,557,No Finding,PA,X-ray,00000057_000.png
+233,397,No Finding,PA,X-ray,000001-3.jpg
+234,719,No Finding,PA,X-ray,00000219_002.png
+235,719,No Finding,PA,X-ray,00000219_003.png
+236,720,No Finding,PA,X-ray,00000220_000.png
+237,722,No Finding,PA,X-ray,00000222_000.png
+238,723,No Finding,PA,X-ray,00000223_000.png
+239,725,No Finding,PA,X-ray,00000225_000.png
+240,725,No Finding,PA,X-ray,00000225_001.png
+241,726,No Finding,PA,X-ray,00000226_000.png
+242,727,No Finding,PA,X-ray,00000227_000.png
+243,727,No Finding,PA,X-ray,00000227_001.png
+244,731,No Finding,PA,X-ray,00000231_012.png
+245,731,No Finding,PA,X-ray,00000231_013.png
+246,739,No Finding,PA,X-ray,00000239_000.png
+247,739,No Finding,PA,X-ray,00000239_003.png
+248,739,No Finding,PA,X-ray,00000239_004.png
+249,739,No Finding,PA,X-ray,00000239_005.png
+250,741,No Finding,PA,X-ray,00000241_000.png
+251,741,No Finding,PA,X-ray,00000241_001.png
+252,742,No Finding,PA,X-ray,00000242_001.png
+253,742,No Finding,PA,X-ray,00000242_002.png
+254,742,No Finding,PA,X-ray,00000242_003.png
+255,742,No Finding,PA,X-ray,00000242_004.png
+256,743,No Finding,PA,X-ray,00000243_000.png
+257,746,No Finding,PA,X-ray,00000246_002.png
+258,785,No Finding,AP,X-ray,00012285_001.png
+259,785,No Finding,AP,X-ray,00012285_003.png
+260,786,No Finding,PA,X-ray,00012286_000.png
+261,789,No Finding,PA,X-ray,00012289_000.png
+262,791,No Finding,PA,X-ray,00012291_000.png
+263,791,No Finding,PA,X-ray,00012291_001.png
+264,791,No Finding,AP,X-ray,00012291_002.png
+265,791,No Finding,PA,X-ray,00012291_010.png
+266,791,No Finding,AP,X-ray,00012291_011.png
+267,791,No Finding,AP,X-ray,00012291_012.png
 268,791,No Finding,AP,X-ray,00012291_014.png
-269,791,No Finding,PA,X-ray,00012291_016.png
-270,792,No Finding,PA,X-ray,00012292_000.png
-271,794,No Finding,PA,X-ray,00012294_000.png
-272,794,No Finding,PA,X-ray,00012294_001.png
-273,794,No Finding,PA,X-ray,00012294_008.png
-274,796,No Finding,PA,X-ray,00012296_000.png
+269,792,No Finding,PA,X-ray,00012292_000.png
+270,794,No Finding,PA,X-ray,00012294_000.png
+271,794,No Finding,PA,X-ray,00012294_001.png
+272,794,No Finding,PA,X-ray,00012294_008.png
+273,796,No Finding,PA,X-ray,00012296_000.png
+274,796,No Finding,AP,X-ray,00012296_001.png
 275,797,No Finding,PA,X-ray,00012297_001.png
-276,798,No Finding,PA,X-ray,00012298_001.png
-277,798,No Finding,PA,X-ray,00012298_002.png
-278,798,No Finding,PA,X-ray,00012298_004.png
-279,798,No Finding,PA,X-ray,00012298_006.png
-280,798,No Finding,PA,X-ray,00012298_008.png
-281,798,No Finding,PA,X-ray,00012298_012.png
+276,797,No Finding,PA,X-ray,00012297_002.png
+277,798,No Finding,PA,X-ray,00012298_001.png
+278,798,No Finding,PA,X-ray,00012298_002.png
+279,798,No Finding,PA,X-ray,00012298_004.png
+280,798,No Finding,PA,X-ray,00012298_006.png
+281,798,No Finding,PA,X-ray,00012298_008.png
 282,798,No Finding,PA,X-ray,00012298_013.png
 283,798,No Finding,PA,X-ray,00012298_014.png
-284,798,No Finding,PA,X-ray,00012298_015.png
-285,798,No Finding,PA,X-ray,00012298_016.png
-286,799,No Finding,PA,X-ray,00012299_001.png
-287,801,No Finding,PA,X-ray,00012301_000.png
+284,798,No Finding,PA,X-ray,00012298_016.png
+285,799,No Finding,PA,X-ray,00012299_001.png
+286,801,No Finding,PA,X-ray,00012301_000.png
+287,803,No Finding,PA,X-ray,00012303_000.png
 288,803,No Finding,PA,X-ray,00012303_002.png
 289,803,No Finding,PA,X-ray,00012303_007.png
 290,803,No Finding,PA,X-ray,00012303_008.png
