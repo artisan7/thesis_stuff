@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from skimage.io import imread
 from matplotlib import pyplot as plt
 from skimage import img_as_ubyte
@@ -6,6 +7,7 @@ from skimage import img_as_ubyte
 from skimage.measure import regionprops
 from skimage.feature import greycomatrix, greycoprops
 from skimage.measure import shannon_entropy
+from scipy.stats import skew
 
 root_dir = 'preprocessed/'
 img_dir = 'masked_images/'
@@ -21,7 +23,12 @@ features = {
     'homogeneity': [],
     'energy': [],
     'correlation': [],
-    'entropy': []
+    'entropy': [],
+    'mean': [],
+    'variance': [],
+    'skewness': [],
+    'uniformity': [],
+    'snr': [],
 }
 
 no_of_elements = 300
@@ -53,12 +60,30 @@ for idx in range(no_of_elements):
     # ENTROPY
     features['entropy'].append( shannon_entropy(img) )
 
-    # TODO:SKEWNESS, TOTAL MEAN, VARIANCE
+    # UNFIROMITY, SKEWNESS, TOTAL MEAN, VARIANCE, SNR
+    arr = img[img != 0] #remove zeroes (masked out pixels) from image
+    
+    intensity_lvls = np.unique(arr) # Get all intensity levels
+    numel = intensity_lvls.size # Number of intensity levels
+    features['uniformity'].append( numel )
+
+    mean = np.mean(arr)
+    sd = np.std(arr)
+    
+    features['mean'].append( mean )
+    features['variance'].append( np.var(arr) )
+    features['skewness'].append( skew(arr) )
+    features['snr'].append( np.where(sd == 0, 0, mean/sd) )
 
     print(f'"{idx}.png" feature extraction done')
 
 # save as csv
+
 df = pd.DataFrame.from_dict(features)
+
+metadata_df = pd.read_csv('final_dataset.csv')
+df['finding'] = metadata_df['finding']
+
 df.to_csv('features.csv')
 
 print('-- FEATURE EXTRACTION FINISHED :P --')
