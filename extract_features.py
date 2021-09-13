@@ -82,7 +82,7 @@ for idx in range(no_of_elements):
 df = pd.DataFrame.from_dict(features)
 
 metadata_df = pd.read_csv('final_dataset.csv')
-df['finding'] = metadata_df['finding']
+df['label'] = metadata_df['finding']
 
 df.to_csv('features.csv')
 
