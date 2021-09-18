@@ -51,11 +51,11 @@ for i in range(300):
     #img = exposure.equalize_hist(img)
 
     inverted = ~img_as_ubyte(img)
-    #thresh = filters.threshold_otsu(inverted)
-    #binary1 = inverted >= thresh
+    thresh = filters.threshold_yen(inverted)
+    binary1 = inverted >= thresh
 
-    thresh = filters.threshold_multiotsu(img)
-    binary1 = ~(img >= thresh[0])
+    #thresh = filters.threshold_multiotsu(img)
+    #binary1 = ~(img >= thresh[0])
 
     kernel = square(7)
     op = opening(binary1, kernel)#select binary here
