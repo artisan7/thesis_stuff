@@ -1,11 +1,10 @@
 import pandas as pd
-from skimage import io
-from matplotlib import pyplot as plt
+import numpy as np
+
+from skimage import io, filters, exposure
 from skimage.transform import resize
 from skimage import img_as_ubyte
-import skimage.filters as flt
-import skimage.exposure as expo
-from skimage.morphology import square, dilation, erosion, opening, closing, remove_small_objects, remove_small_holes
+from skimage.morphology import square, opening, closing, remove_small_objects, remove_small_holes, dilation, erosion
 
 root_dir = ''
 image_dir = 'final_cxr_dataset/'
@@ -17,8 +16,6 @@ for i in range(300):
 
     current = df.iloc[i]
     img_loc = root_dir + image_dir + current['filename']
-
-    coarse_mask = img_as_ubyte(io.imread('coarse_mask.png', as_gray=True))
 
     try:
         img = img_as_ubyte(io.imread(img_loc, as_gray=True))
@@ -44,32 +41,29 @@ for i in range(300):
         else:    # height == width
             img = resize(img, [ length, length ])
 
-        img = flt.gaussian(img)
+        img = filters.gaussian(img)
     except FileNotFoundError:
         print(f'{img_loc} not found.')
-        
-    
-    #coarse mask -> thresholding
-    masked = ~(img_as_ubyte(img) * coarse_mask)
-    thresh = flt.threshold_yen(masked)
-    binary1 = masked <= thresh
 
-    # thresholding -> coarse mask
-    #thresh = flt.threshold_yen(img_as_ubyte(img))
-    #masked = ~(img_as_ubyte(img) * coarse_mask)
-    #binary2 =  masked <= thresh
+    # CONTRAST STRETCHING + HISTOGRAM EQUALIZTIONA
+    p2, p98 = np.percentile(img, (2, 98))
+    img = exposure.rescale_intensity(img, in_range=(p2, p98))
+    #img = exposure.equalize_hist(img)
+
+    inverted = ~img_as_ubyte(img)
+    thresh = filters.threshold_yen(inverted)
+    binary1 = inverted >= thresh
+
+    #thresh = filters.threshold_multiotsu(img)
+    #binary1 = ~(img >= thresh[0])
 
     kernel = square(7)
     op = opening(binary1, kernel)#select binary here
-    #op = dilation(remove_small_objects(erosion(op, kernel), 800), kernel)
+    op = dilation(remove_small_objects(erosion(op, kernel), 200), kernel)
     mask = closing(op, kernel)
-    #mask = remove_small_objects(closing(op, kernel), 1000)
-    mask = remove_small_holes(closing(op, kernel), 1000)
+    mask = remove_small_objects(mask, 1000)
+    mask = remove_small_holes(mask, 1000)
     final1 = img * mask
-
-    plt.imshow(final1, cmap=plt.cm.gray)
-
-
 
     output_dir = 'preprocessed/'
     img_dir = 'masked_images/'

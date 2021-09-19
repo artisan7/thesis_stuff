@@ -50,12 +50,19 @@ for idx in range(no_of_elements):
     features['minor axis'].append( prop['minor_axis_length'] )
 
     #GLCM TEXTURE BASED FEATURES
-    glcm = greycomatrix(img_as_ubyte(img), [1], [0], symmetric=True)
+    glcm = greycomatrix(img_as_ubyte(img), [1, 2, 3, 4], [0, np.pi/4, np.pi/2, 3*np.pi/4])
 
-    features['contrast'].append( greycoprops(glcm, prop='contrast')[0][0] )
-    features['homogeneity'].append( greycoprops(glcm, prop='homogeneity')[0][0] )
-    features['energy'].append( greycoprops(glcm, prop='energy')[0][0] )
-    features['correlation'].append( greycoprops(glcm, prop='correlation')[0][0] )
+    stats = greycoprops(glcm, prop='contrast')
+    features['contrast'].append( np.mean(stats) )
+
+    stats =greycoprops(glcm, prop='homogeneity')
+    features['homogeneity'].append( np.mean(stats) )
+
+    stats = greycoprops(glcm, prop='energy')
+    features['energy'].append( np.mean(stats) )
+
+    stats = greycoprops(glcm, prop='correlation') 
+    features['correlation'].append( np.mean(stats) )
 
     # ENTROPY
     features['entropy'].append( shannon_entropy(img) )
