@@ -51,7 +51,7 @@ for i in range(300):
     #img = exposure.equalize_hist(img)
 
     inverted = ~img_as_ubyte(img)
-    thresh = filters.threshold_yen(inverted)
+    thresh = filters.threshold_otsu(inverted)
     binary1 = inverted >= thresh
 
     #thresh = filters.threshold_multiotsu(img)
