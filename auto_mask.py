@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+from math import sqrt
 from skimage import io, filters, exposure
 from skimage.transform import resize
 from skimage import img_as_ubyte
@@ -41,7 +42,7 @@ for i in range(300):
         else:    # height == width
             img = resize(img, [ length, length ])
 
-        img = filters.gaussian(img)
+        img = filters.gaussian(img, sigma=sqrt(2))
     except FileNotFoundError:
         print(f'{img_loc} not found.')
 
