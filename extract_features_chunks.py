@@ -18,11 +18,6 @@ num_chunks = chunks_per_axis**2
 
 features = {}
 for i in range(num_chunks):
-    #features[f'area{i}'] = []
-    #features[f'perimeter{i}'] = []
-    #features[f'eccentricity{i}'] = []
-    #features[f'major axis{i}'] = []
-    #features[f'minor axis{i}'] = []
     features[f'mean{i}'] = []
     features[f'variance{i}'] = []
     features[f'skewness{i}'] = []
@@ -36,7 +31,6 @@ for idx in range(no_of_elements):
     mask_loc = f'{root_dir}{mask_dir}{idx}.png'
 
     img = imread(img_loc, as_gray=True)
-    #mask = imread(mask_loc, as_gray=True)
 
     # split into chunks
     for i in range(chunks_per_axis):
@@ -45,16 +39,6 @@ for idx in range(no_of_elements):
             chunk_width = chunk_height = img.shape[0]//4
 
             img_chunk = img[ chunk_width * i:chunk_width * (i+1), chunk_height * j:chunk_height * (j+1) ]
-            #mask_chunk = mask[ chunk_width * i:chunk_width * (i+1), chunk_height * j:chunk_height * (j+1) ]
-
-            # SHAPE BASED FEATURES
-            #prop = regionprops(mask)[0]
-
-            #features[f'area{chunk_idx}'].append( prop['area'] )
-            #features[f'perimeter{chunk_idx}'].append( prop['perimeter'] )
-            #features[f'eccentricity{chunk_idx}'].append( prop['eccentricity'] )
-            #features[f'major axis{chunk_idx}'].append( prop['major_axis_length'] )
-            #features[f'minor axis{chunk_idx}'].append( prop['minor_axis_length'] )
 
             # UNFIROMITY, SKEWNESS, TOTAL MEAN, VARIANCE, SNR
             arr = img_chunk[img_chunk != 0] #remove zeroes (masked out pixels) from image
